@@ -24,6 +24,8 @@ The course introduced the foundational concepts of data mining, focusing on:
 │   ├── PDFs, Python scripts, term-document matrix
 ├── Assignment 2/
 │   ├── Problem solutions in PDF format
+├── Assignment 3/
+│   ├── PDF solutions to extended analytical problems
 ├── Lab 1/
 │   ├── PCA visualizations, grayscale transformations
 ├── Lab 2/
